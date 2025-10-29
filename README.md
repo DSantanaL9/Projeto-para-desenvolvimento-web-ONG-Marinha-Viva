@@ -69,7 +69,7 @@ O site foi desenvolvido com **design responsivo**, adaptando-se automaticamente 
 
 1. **Clone o repositório:**
    ```bash
-     https://github.com/DSantanaL9/Projeto-para-desenvolvimento-web-ONG-Marinha-Viva.git
+     git clone   https://github.com/DSantanaL9/Projeto-para-desenvolvimento-web-ONG-Marinha-Viva.git
 
 2. Entre na pasta do projeto:
     cd marinha-viva
