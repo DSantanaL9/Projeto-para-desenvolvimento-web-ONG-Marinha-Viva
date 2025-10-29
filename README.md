@@ -72,7 +72,6 @@ O site foi desenvolvido com **design responsivo**, adaptando-se automaticamente 
      git clone   https://github.com/DSantanaL9/Projeto-para-desenvolvimento-web-ONG-Marinha-Viva.git
 
 2. Entre na pasta do projeto:
-    cd marinha-viva
 
 3. Abra o arquivo index.html diretamente no navegador:
 
