@@ -73,11 +73,7 @@ O site foi desenvolvido com **design responsivo**, adaptando-se automaticamente 
 
 2. Entre na pasta do projeto:
 
-3. Abra o arquivo index.html diretamente no navegador:
-
-    - Clique duas vezes no arquivo
-
-    - Ou, se preferir, use o Live Server do VSCode
+3. Abra o arquivo index.html utilizando a extensão Live Server do VSCode
 
  Conceitos Aplicados
 
@@ -113,3 +109,8 @@ Inspirado em iniciativas reais de preservação dos oceanos e da fauna marinha.
 Licença
 
 Este projeto está licenciado sob a MIT License
+
+Certificações
+
+- Certificado com o W3C Markup Validation]
+- Hypertext Transfer Protocol Secure
